@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexhmar
 - 👀 I’m interested in anime,movies,books 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning front-end web dev
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me alexnsanate@gmail.com
 
